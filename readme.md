@@ -6,7 +6,13 @@ Following along the book by Andreas C. Müller & Sarah Guido
 Setup
 ---
 
-Requires `python3`, `pip3`, and `virtualenv`.
+Requires `python3`, `pip3`, `virtualenv`, and `graphviz`.
+
+Brew install graphviz.
+
+```sh
+$ brew install graphviz
+```
 
 Create the virtual environment, and activate the virtual environment.
 
