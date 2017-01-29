@@ -26,3 +26,9 @@ Then, install the required dependencies.
 ```sh
 > pip3 install -r requirements.txt
 ```
+
+Start with:
+
+```sh
+> jupyter notebook
+```
